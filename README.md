@@ -1,4 +1,4 @@
-# Argentina
+# Planning Public Policy in Argentina
 In this R notebook, I use PCA and k-means to analyze indicators and demonstrate a prescriptive analysis.
 
 The data file is attached here and includes ten indicators on the different provinces in Argentina.
